@@ -18,7 +18,7 @@ define(function(require) {
 
       require('./tpl/cache').name,
 
-      require('app/home/package').name,,
+      require('app/home/package').name,
 
     ]
   );
